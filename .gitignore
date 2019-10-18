@@ -49,3 +49,8 @@
 
 # env file
 .env
+
+# generated files
+commits
+versions
+opts
